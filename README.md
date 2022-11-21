@@ -3,10 +3,10 @@
 1 Сколонировать репозиторий
 
 
-2 Установить необходимые зависимости (pip install -r requirements.txt)
+2 Установить необходимые зависимости <pip install -r requirements.txt>
 
 
-3 Запустить проект (python3 manage.py runserver)
+3 Запустить проект <python3 manage.py runserver>
 
 
 
