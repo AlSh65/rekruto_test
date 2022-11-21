@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 3 Запустить проект   
 ```Python
-<python3 manage.py runserver>
+python3 manage.py runserver
 ```
 
 
